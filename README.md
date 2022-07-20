@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nezar Aberqi
 ====================================================================================================================================
 
-• BI & Data Analytics student at ENSIAS.
+<h3 style="text-align=center";> • BI & Data Analytics student at ENSIAS</h3>.
 ----------------------------------------
 
 I am 22 years old aspiring Business Intelligence student, highly skilled in Data Analytics and Data Engineering, with strong foundations in problem solving and analytical thinking.
