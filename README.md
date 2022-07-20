@@ -9,7 +9,7 @@ I am 22 years old aspiring Business Intelligence student, highly skilled in Data
 * 🌍  I'm based in Rabat, Morocco.
 * ✉️  You can contact me at [nezar\_aberqi@um5.ac.ma](mailto:nezar_aberqi@um5.ac.ma)
 * 🧠  I'm learning Data analysis with Python
-* ⚡  I can turn coffee into code 🥴
+* ⚡  I can turn coffee into code 👩‍💻
 
 ### Skills
 
