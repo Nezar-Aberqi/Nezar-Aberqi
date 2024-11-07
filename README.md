@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nezar Aberqi
 ====================================================================================================================================
 
-<h3 style="text-align=center";> • BI & Data Analytics student at ENSIAS</h3>.
+<h3 style="text-align=center";> • Quantitative Finance student at Paris Saclay University</h3>.
 ----------------------------------------
 
-I am 22 years old aspiring Business Intelligence student, highly skilled in Data Analytics and Data Engineering, with strong foundations in problem solving and analytical thinking.
+I am 23 years old aspiring student, highly skilled in Data Analytics and Data Engineering, with strong foundations in problem solving and analytical thinking.
 
 * 🌍  I'm based in Rabat, Morocco.
-* ✉️  You can contact me at [nezar\_aberqi@um5.ac.ma](mailto:nezar_aberqi@um5.ac.ma)
-* 🧠  I'm learning Data analysis with Python
+* ✉️  You can contact me at [nezaraberqi@gmail.com](mailto:nezar_aberqi@um5.ac.ma)
+* 🧠  I'm learning Quantitative Finance 
 * ⚡  I can turn coffee into code 👩‍💻
 
 ### Skills
